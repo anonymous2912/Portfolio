@@ -41,7 +41,7 @@ span3.onclick = function () {
 };
 
 $(".button_cv").click(function () {
-  window.open("CV.pdf", "_blank");
+  window.open("https://drive.google.com/file/d/1BJ9m9FEwqy2zK8WOMwffLukWx0AxkoKa/view?usp=sharing", "_blank");
 });
 
 $(".content_sm img").click(function () {
